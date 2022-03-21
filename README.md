@@ -24,7 +24,7 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="SQL" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Java" width="26px" src="![image](https://user-images.githubusercontent.com/25940334/159364076-d5e8e64f-2ab9-4e05-8590-894aecb98e0c.png)" />
+<img align="left" alt="Java" width="26px" src="https://dtkk.ru/wp-content/uploads/2021/03/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Omer-5b6766ab5dba25.7100170215335031473839.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
