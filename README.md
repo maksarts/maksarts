@@ -1,6 +1,7 @@
 ### 👋 Hello there, I’m @maksarts
 
 
+- :sunglasses: Bachelor of Computer Science and Applied Mathematics (MPEI '22)
 - 👀 I’m interested Machine Learning and Data Analysis, Python and Java development 
 - :ok_hand: Also I have some experience in SQL, C/C++, C# and HTML/CSS/JS coding
 - 🌱 I’m currently learning everything I interested in, especially if it about ML
