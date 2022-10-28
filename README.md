@@ -8,7 +8,8 @@
 - 🌃 Located in Russia, Moscow
 - ⚡ Fun fact: One of my hobbies is making electronic music
 
-
+### Other links:
+- 100+ leetcode submissions: https://leetcode.com/maksarts/
 
 
 ### Connect with me by Instagram:
