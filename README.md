@@ -12,8 +12,8 @@
 - 100+ leetcode submissions: https://leetcode.com/maksarts/
 
 
-### Connect with me by Instagram:
-[<img align="left" alt="Maksarts | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Connect with me by Telegram:
+[<img align="left" alt="Maksarts | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" />][Telegram]
 
 
 <br />
@@ -41,4 +41,4 @@
 
 
 
-[instagram]: https://www.instagram.com/apelsinoviy_borsh/
+[Telegram]: https://t.me/hehehelilili
