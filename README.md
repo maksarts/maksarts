@@ -13,7 +13,8 @@
 - 130+ leetcode solved problems: https://leetcode.com/maksarts/
 
 
-### Connect with me by Telegram:
+### Connect with me by:
+[<img align="left" alt="Maksarts | LinkedIn" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)" />][LinkedIn]
 [<img align="left" alt="Maksarts | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" />][Telegram]
 
 
@@ -42,4 +43,5 @@
 
 
 
+[LinkedIn]: https://linkedin.com/in/maksarts
 [Telegram]: https://t.me/hehehelilili
