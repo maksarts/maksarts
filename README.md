@@ -10,7 +10,7 @@
 - ⚡ Fun fact: One of my hobbies is making electronic music
 
 ### Other links:
-- 130+ leetcode solved problems: https://leetcode.com/maksarts/
+- 170+ leetcode solved problems: https://leetcode.com/maksarts/
 
 
 ### Connect with me by:
