@@ -5,7 +5,7 @@
 - :triumph: Java Developer
 - 👀 I’m interested Machine Learning/Data Analysis and Backend Development 
 - :ok_hand: Also I have some experience in Python, SQL, C/C++, C# and HTML/CSS/JS coding
-- 🌱 I’m currently learning everything I interested in, especially if it about ML
+- 🌱 I’m currently learning everything about backend development on Java
 - 🌃 Located in Russia, Moscow
 - ⚡ Fun fact: One of my hobbies is making electronic music
 
