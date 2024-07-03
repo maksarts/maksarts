@@ -3,14 +3,14 @@
 
 - :sunglasses: Bachelor of Computer Science and Applied Mathematics (MPEI '22)
 - :triumph: Java Developer
-- 👀 I’m interested Machine Learning/Data Analysis and Backend Development 
+- 👀 I’m interested in Backend Development and Machine Learning
 - :ok_hand: Also I have some experience in Python, SQL, C/C++, C# and HTML/CSS/JS coding
 - 🌱 I’m currently learning everything about backend development on Java
-- 🌃 Located in Russia, Moscow
-- ⚡ Fun fact: One of my hobbies is making electronic music
+- 🌃 Located in Gudauri, Georgia
+- ⚡ Fun fact: One of my hobbies is making music
 
 ### Other links:
-- 200+ leetcode solved problems: https://leetcode.com/maksarts/
+- 240+ leetcode solved problems: https://leetcode.com/maksarts/
 
 
 ### Connect with me by:
