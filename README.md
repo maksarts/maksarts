@@ -3,14 +3,15 @@
 
 - :sunglasses: Bachelor of Computer Science and Applied Mathematics (MPEI '22)
 - :triumph: Java Developer
-- 👀 I’m interested in Backend Development and Machine Learning
-- :ok_hand: Also I have some experience in Python, SQL, C/C++, C# and HTML/CSS/JS coding
-- 🌱 I’m currently learning everything about backend development on Java
+- 👀 I’m interested in Backend Development and System Desing
+- :ok_hand: Also I have some experience in Python, SQL, algorithms and data structures
+- 🌱 I’m currently learning everything about backend development on Java and architecture theory
 - 🌃 Located in Gudauri, Georgia
-- ⚡ Fun fact: One of my hobbies is making music
+- ⚡ Like to play chess and making music
+
 
 ### Other links:
-- 330+ leetcode solved problems: https://leetcode.com/maksarts/
+- 350+ leetcode solved problems: https://leetcode.com/maksarts/
 
 
 ### Connect with me by:
