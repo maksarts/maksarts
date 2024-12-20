@@ -11,7 +11,7 @@
 
 
 ### Other links:
-- 400+ leetcode solved problems: https://leetcode.com/maksarts/
+- 500+ leetcode solved problems: https://leetcode.com/maksarts/
 
 
 ### Connect with me by:
