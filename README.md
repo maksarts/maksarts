@@ -45,4 +45,4 @@
 
 
 [LinkedIn]: https://linkedin.com/in/maksarts
-[Telegram]: https://t.me/hehehelilili
+[Telegram]: https://t.me/maksimarts_dev
